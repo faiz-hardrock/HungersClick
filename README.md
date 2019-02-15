@@ -1,2 +1,2 @@
 # HungersClick
-Food app for Company
+First Food app
